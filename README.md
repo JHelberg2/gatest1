@@ -1,5 +1,5 @@
 # gatest1
-Github actions test repo
+GitHub actions test repository
 
 
 ????
